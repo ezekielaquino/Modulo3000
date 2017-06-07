@@ -1,0 +1,24 @@
+.js-modulo {
+  position: relative;
+}
+
+.js-moduloModule {
+  overflow: hidden;
+  backface-visibility: hidden;
+}
+
+.js-moduloModule.is-toggled {
+  z-index: 9999;
+}
+
+.js-moduloModule.is-opened {
+  overflow-y: auto;
+}
+
+.js-moduloModule,
+.js-moduloModule .content {
+  position: absolute;
+  transform-origin: 0% 0%;
+  width: 100%;
+  min-height: 100vh;
+}

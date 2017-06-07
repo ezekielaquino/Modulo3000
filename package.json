@@ -1,0 +1,11 @@
+{
+  "name": "modulo3000",
+  "version": "0.0.1",
+  "description": "Super smooth expanding modular elements",
+  "main": "modulo3000.js",
+  "repository": "git@github.com:ezekielaquino/Modulo3000.git",
+  "author": "Ezekiel Aquino <ezekielaquino@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
